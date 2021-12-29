@@ -1,0 +1,60 @@
+RM03
+eval = 2391
+eval = 2385
+eval = 2393
+eval = 2385
+eval = 2384
+RM04
+eval = 2396
+eval = 2390
+eval = 2388
+eval = 2392
+eval = 2387
+RM05
+eval = 2387
+eval = 2392
+eval = 2388
+eval = 2389
+eval = 2392
+RM06
+eval = 2390
+eval = 2393
+eval = 2390
+eval = 2385
+eval = 2391
+RM07
+eval = 2386
+eval = 2393
+eval = 2386
+eval = 2385
+eval = 2389
+RM08
+eval = 2392
+eval = 2388
+eval = 2386
+eval = 2388
+eval = 2390
+RM09
+eval = 2387
+eval = 2390
+eval = 2384
+eval = 2391
+eval = 2392
+RM10
+eval = 2386
+eval = 2394
+eval = 2392
+eval = 2387
+eval = 2389
+RM11
+eval = 2387
+eval = 2388
+eval = 2390
+eval = 2399
+eval = 2391
+RM12
+eval = 2389
+eval = 2391
+eval = 2391
+eval = 2389
+eval = 2392

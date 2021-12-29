@@ -1,0 +1,16 @@
+# número de vértices
+5000
+# listas de arestas com cores
+# vertice1 vertice2 cor
+1   5 883
+2   7 5
+3  1 1742
+4   5 7
+4   7 1812
+1   965 821
+1   1037 1527
+1   1060 2705
+1   1106 4926
+1   1206 3871
+1   1391 1812
+91 12 883
